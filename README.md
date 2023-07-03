@@ -1,6 +1,6 @@
 # Task Manager Application - Using the MEAN Stack
 
-![Preview of application](/images/app-preview.jpg)
+![Preview of application](/frontend/src/assets/app-preview.jpg)
 
 ## Functionality
 ---
