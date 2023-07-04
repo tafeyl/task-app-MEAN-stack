@@ -3,14 +3,12 @@
 ![Preview of application](/frontend/src/assets/app-preview.jpg)
 
 ## Functionality
----
 
 - Signup and Login/Out Functionality
 - Add Lists and Tasks
 - Edit or Delete Lists and Tasks
 
 ## Setup
----
 
 ### Install Packages
 - Run `npm install` in both the frontend and api
